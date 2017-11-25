@@ -1,4 +1,4 @@
 
 <Version: 5.11>
-/data/test.zip https://wordpress.org/latest.zip
+/data/test.jpg 
 <End of Version>
